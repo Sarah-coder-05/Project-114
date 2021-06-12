@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(rgb(243, 106, 220), yellow);
+    text-align: center;
+}
+
+ canvas {
+   border:12px double rebeccapurple;
+   margin-top: 100px;
+}
+
+#h3a{
+    background: linear-gradient(to bottom right, rgb(0, 255, 221), yellow);
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: snow;
+    border: solid;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 5px;
+}
